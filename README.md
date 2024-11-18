@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Profesor de medio tiempo trabjando en el ITAM. 
+Profesor de medio tiempo en el Departamento de Estadística en el ITAM. 
+
 
 
 <!--

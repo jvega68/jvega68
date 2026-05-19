@@ -3,6 +3,7 @@
 - Profesor de medio tiempo en el Departamento de Estadística en el ITAM. 
 - Ex Banxico
 - Fan de R, Python y Julia
+- Siempre con ganas de aprender
 
 
 
